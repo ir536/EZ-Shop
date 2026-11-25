@@ -10,7 +10,12 @@ settings: {
 },
 
   vinyl: [
-    { name: "Midnight Violet", code: "EZ-V001", finish: "Gloss", hex: "#49316b", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
+    { name: "Midnight Violet", 
+     code: "EZ-V001", 
+     finish: "Gloss", 
+     hex: "#49316b", 
+     image: "", 
+     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
     { name: "Satin Forest", code: "EZ-V002", finish: "Satin", hex: "#355b48", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
     { name: "Liquid Silver", code: "EZ-V003", finish: "Metallic", hex: "#a4a9b5", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." }
   ],
