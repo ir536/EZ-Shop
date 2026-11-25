@@ -3,10 +3,12 @@
 // Photos: upload images to an 'images' folder and set image: 'images/filename.jpg'.
 // Remove demo products or replace them with verified inventory before public launch.
 window.EZ_DATA = {
-  settings: {
-    email: "izzy2v22@gmail.com"
-    instagram: "https://www.instagram.com/izzy_2v/"
-  },
+
+settings: {
+  email: "izzy2v22@gmail.com",
+  instagram: "https://www.instagram.com/izzy_2v/"
+},
+
   vinyl: [
     { name: "Midnight Violet", code: "EZ-V001", finish: "Gloss", hex: "#49316b", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
     { name: "Satin Forest", code: "EZ-V002", finish: "Satin", hex: "#355b48", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
