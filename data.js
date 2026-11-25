@@ -39,7 +39,7 @@ settings: {
     code: "EZ-V004",
     finish: "Gloss",
     hex: "#101F46",
-    image: "",
+    image: "images/midnight-blue.jpg",
     description: "Premium gloss midnight blue automotive wrap vinyl."
   },
 ],
