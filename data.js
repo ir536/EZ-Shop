@@ -38,8 +38,7 @@ settings: {
       finish: "Gloss",
       hex: "#49416B",
       image: "",
-      description: "Premium gloss purple automotive wrap vinyl."
-},
+      description: "Premium gloss purple automotive wrap vinyl." },
 
   ],
   parts: [
