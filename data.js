@@ -39,7 +39,8 @@ settings: {
     hex: "#49416B",
     image: "",
     description: "Premium gloss midnight blue automotive wrap vinyl." },
-
+    ],
+  
   parts: [
     { name: "Custom Interior Accessories", fitment: "Made for specific vehicles", image: "", description: "EXAMPLE CATEGORY — add actual parts and verified vehicle compatibility." },
     { name: "3D-Printed Vehicle Components", fitment: "Vehicle-specific requests", image: "", description: "EXAMPLE CATEGORY — request a custom quote and fitment review." }
