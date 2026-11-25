@@ -29,16 +29,16 @@ settings: {
      finish: "Metallic", 
      hex: "#a4a9b5", 
      image: "", 
-     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." }
+     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
 
     
     {
       name: "Gloss Midnight Blue",
       code: "EZ-V004",
       finish: "Gloss",
-      hex: "#49416B",
+      hex: "#191970",
       image: "",
-      description: "Premium gloss purple automotive wrap vinyl." },
+      description: "Premium gloss blue automotive wrap vinyl." },
 
   ],
   parts: [
