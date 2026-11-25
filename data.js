@@ -32,6 +32,16 @@ settings: {
      description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
 
     
+{
+  name: "Gloss Midnight Blue",
+  code: "EZ-V004",
+  finish: "Gloss",
+  hex: "#49416B",
+  image: "",
+  description: "Premium gloss midnight blue automotive wrap vinyl."
+},
+
+    
     {
       name: "Gloss Midnight Blue",
       code: "EZ-V004",
