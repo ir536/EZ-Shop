@@ -16,8 +16,20 @@ settings: {
      hex: "#49316b", 
      image: "", 
      description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
-    { name: "Satin Forest", code: "EZ-V002", finish: "Satin", hex: "#355b48", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
-    { name: "Liquid Silver", code: "EZ-V003", finish: "Metallic", hex: "#a4a9b5", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." }
+    
+    { name: "Satin Forest", 
+     code: "EZ-V002", 
+     finish: "Satin", 
+     hex: "#355b48", 
+     image: "", 
+     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
+    
+    { name: "Liquid Silver", 
+     code: "EZ-V003", 
+     finish: "Metallic", 
+     hex: "#a4a9b5", 
+     image: "", 
+     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." }
   ],
   parts: [
     { name: "Custom Interior Accessories", fitment: "Made for specific vehicles", image: "", description: "EXAMPLE CATEGORY — add actual parts and verified vehicle compatibility." },
