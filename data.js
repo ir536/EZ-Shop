@@ -10,37 +10,41 @@ settings: {
 },
 
   vinyl: [
-    { name: "Midnight Violet", 
-     code: "EZ-V001", 
-     finish: "Gloss", 
-     hex: "#49316b", 
-     image: "", 
-     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
-    
-    { name: "Satin Forest", 
-     code: "EZ-V002", 
-     finish: "Satin", 
-     hex: "#355b48", 
-     image: "", 
-     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
-    
-    { name: "Liquid Silver", 
-     code: "EZ-V003", 
-     finish: "Metallic", 
-     hex: "#a4a9b5", 
-     image: "", 
-     description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
 
     
-    {
+    name: "Midnight Violet",
+    code: "EZ-V001",
+    finish: "Gloss",
+    hex: "#49316b",
+    image: "",
+    description: "DEMO COLOR — replace with confirmed inventory."
+  },
+  {
+    name: "Satin Forest",
+    code: "EZ-V002",
+    finish: "Satin",
+    hex: "#355b48",
+    image: "",
+    description: "DEMO COLOR — replace with confirmed inventory."
+  },
+  {
+    name: "Liquid Silver",
+    code: "EZ-V003",
+    finish: "Metallic",
+    hex: "#a4a9b5",
+    image: "",
+    description: "DEMO COLOR — replace with confirmed inventory."
+  },
+  {
     name: "Gloss Midnight Blue",
     code: "EZ-V004",
     finish: "Gloss",
-    hex: "#49416B",
+    hex: "#101F46",
     image: "",
-    description: "Premium gloss midnight blue automotive wrap vinyl." },
-    ],
-  
+    description: "Premium gloss midnight blue automotive wrap vinyl."
+  }
+],
+
   parts: [
     { name: "Custom Interior Accessories", fitment: "Made for specific vehicles", image: "", description: "EXAMPLE CATEGORY — add actual parts and verified vehicle compatibility." },
     { name: "3D-Printed Vehicle Components", fitment: "Vehicle-specific requests", image: "", description: "EXAMPLE CATEGORY — request a custom quote and fitment review." }
