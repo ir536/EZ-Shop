@@ -4,8 +4,8 @@
 // Remove demo products or replace them with verified inventory before public launch.
 window.EZ_DATA = {
   settings: {
-    email: "", // izzy2v22@gmail.com
-    instagram: "" // https://www.instagram.com/izzy_2v/
+    email: "izzy2v22@gmail.com"
+    instagram: "https://www.instagram.com/izzy_2v/"
   },
   vinyl: [
     { name: "Midnight Violet", code: "EZ-V001", finish: "Gloss", hex: "#49316b", image: "", description: "DEMO COLOR — replace with confirmed stock and real swatch imagery." },
