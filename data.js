@@ -41,7 +41,7 @@ settings: {
     hex: "#101F46",
     image: "",
     description: "Premium gloss midnight blue automotive wrap vinyl."
-  }
+  },
 ],
 
   parts: [
