@@ -10,7 +10,8 @@ settings: {
 },
 
   vinyl: [
-    { name: "Midnight Violet",
+    { 
+    name: "Midnight Violet",
     code: "EZ-V001",
     finish: "Gloss",
     hex: "#49316b",
