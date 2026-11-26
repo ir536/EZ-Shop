@@ -42,6 +42,14 @@ settings: {
     image: "",
     description: "Premium gloss midnight blue automotive wrap vinyl."
   },
+      {
+    name: "Piano Black",
+    code: "EZ-V005",
+    finish: "Gloss",
+    hex: "#080808",
+    image: "",
+    description: "Premium gloss piano Black automotive wrap vinyl."
+  },
 ],
 
   parts: [
