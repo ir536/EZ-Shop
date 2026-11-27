@@ -12,11 +12,27 @@ settings: {
   vinyl: [
       {
     name: "Piano Black",
-    code: "EZ-V005",
+    code: "EZ-V001",
     finish: "Gloss",
     hex: "#080808",
     image: "",
     description: "Premium gloss piano Black automotive wrap vinyl."
+  },
+     {
+    name: "Emmerald Green",
+    code: "EZ-V002",
+    finish: "Gloss",
+    hex: "#046B45",
+    image: "",
+    description: "Premium gloss Emmeral Green automotive wrap vinyl."
+  },
+     {
+    name: "Perl Black",
+    code: "EZ-V003",
+    finish: "Gloss",
+    hex: "#171719",
+    image: "",
+    description: "Premium gloss Emmeral Green automotive wrap vinyl."
   },
 ],
 
