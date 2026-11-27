@@ -15,6 +15,9 @@ settings: {
     code: "EZ-V001",
     finish: "Gloss",
     hex: "#080808",
+        price: 350,
+salePrice: 250,
+saleLabel: "FIRST ROLL SALE",
     image: "",
     description: "Premium gloss piano Black automotive wrap vinyl."
   },
@@ -23,6 +26,9 @@ settings: {
     code: "EZ-V002",
     finish: "Gloss",
     hex: "#046B45",
+       price: 350,
+salePrice: 250,
+saleLabel: "FIRST ROLL SALE",
     image: "",
     description: "Premium gloss Emmeral Green automotive wrap vinyl."
   },
@@ -31,6 +37,9 @@ settings: {
     code: "EZ-V003",
     finish: "Gloss",
     hex: "#171719",
+       price: 350,
+salePrice: 250,
+saleLabel: "FIRST ROLL SALE",
     image: "",
     description: "Premium gloss Perl Black automotive wrap vinyl."
   },
