@@ -10,38 +10,6 @@ settings: {
 },
 
   vinyl: [
-    { 
-    name: "Midnight Violet",
-    code: "EZ-V001",
-    finish: "Gloss",
-    hex: "#49316b",
-    image: "",
-    description: "DEMO COLOR — replace with confirmed inventory."
-  },
-  {
-    name: "Satin Forest",
-    code: "EZ-V002",
-    finish: "Satin",
-    hex: "#355b48",
-    image: "",
-    description: "DEMO COLOR — replace with confirmed inventory."
-  },
-  {
-    name: "Liquid Silver",
-    code: "EZ-V003",
-    finish: "Metallic",
-    hex: "#a4a9b5",
-    image: "",
-    description: "DEMO COLOR — replace with confirmed inventory."
-  },
-  {
-    name: "Gloss Midnight Blue",
-    code: "EZ-V004",
-    finish: "Gloss",
-    hex: "#101F46",
-    image: "",
-    description: "Premium gloss midnight blue automotive wrap vinyl."
-  },
       {
     name: "Piano Black",
     code: "EZ-V005",
