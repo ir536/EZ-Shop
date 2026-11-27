@@ -42,7 +42,7 @@ stock: 1,
    price: 350,
 salePrice: 250,
 saleLabel: "FIRST ROLL SALE",
-stock: 1,
+stock: 2,
     image: "",
     description: "Premium gloss Perl Black automotive wrap vinyl."
   },
