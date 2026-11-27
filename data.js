@@ -32,7 +32,7 @@ settings: {
     finish: "Gloss",
     hex: "#171719",
     image: "",
-    description: "Premium gloss Emmeral Green automotive wrap vinyl."
+    description: "Premium gloss Perl Black automotive wrap vinyl."
   },
 ],
 
